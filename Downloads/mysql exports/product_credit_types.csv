@@ -1,0 +1,14 @@
+id,name,type
+1,"General Credit",credit
+2,"General Debit",debit
+3,"Hostess Credit",credit
+4,"Product Purchase",debit
+5,Refund,credit
+6,"Gift Card",credit
+7,"Fast Start",credit
+8,Enrollment,credit
+9,"Birthday Cash",credit
+10,"Promo Credit",credit
+11,Concession,credit
+12,Expiration,debit
+13,"Shipping Concession",credit

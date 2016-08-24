@@ -1,0 +1,7 @@
+id,name
+1,Approved
+2,"Hold for review"
+3,Denied
+4,"Presenter not verified"
+5,Queued
+6,"Is Paid"
