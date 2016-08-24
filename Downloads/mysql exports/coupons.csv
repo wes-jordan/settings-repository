@@ -1,6 +1,0 @@
-id,name,webcode,coupon_scope_id,coupon_type_id,max_redemptions,start_date,end_date,discount_percentage,discount_flat
-1,"Half Price Promotion",NULL,2,1,-1,"2012-11-26 20:24:11","0000-00-00 00:00:00",50,0.00
-2,"Online share",NULL,1,7,-1,"2013-04-01 07:49:50","0000-00-00 00:00:00",5,0.00
-3,"Online Share",NULL,3,7,-1,"2013-04-01 09:45:55","0000-00-00 00:00:00",50,0.00
-4,"Kudos: Free item",NULL,2,8,-1,"2014-09-01 00:00:00","2014-10-31 23:59:59",100,0.00
-5,"Promotion: Free Item",NULL,2,2,-1,"2015-03-01 00:00:00","0000-00-00 00:00:00",100,0.00
